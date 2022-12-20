@@ -1,0 +1,15 @@
+C:\Users\Дима\Desktop\Gitdom\List2\bin\Debug\net7.0\List2.exe
+C:\Users\Дима\Desktop\Gitdom\List2\bin\Debug\net7.0\List2.deps.json
+C:\Users\Дима\Desktop\Gitdom\List2\bin\Debug\net7.0\List2.runtimeconfig.json
+C:\Users\Дима\Desktop\Gitdom\List2\bin\Debug\net7.0\List2.dll
+C:\Users\Дима\Desktop\Gitdom\List2\bin\Debug\net7.0\List2.pdb
+C:\Users\Дима\Desktop\Gitdom\List2\obj\Debug\net7.0\List2.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\Gitdom\List2\obj\Debug\net7.0\List2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Desktop\Gitdom\List2\obj\Debug\net7.0\List2.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\Gitdom\List2\obj\Debug\net7.0\List2.AssemblyInfo.cs
+C:\Users\Дима\Desktop\Gitdom\List2\obj\Debug\net7.0\List2.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Gitdom\List2\obj\Debug\net7.0\List2.dll
+C:\Users\Дима\Desktop\Gitdom\List2\obj\Debug\net7.0\refint\List2.dll
+C:\Users\Дима\Desktop\Gitdom\List2\obj\Debug\net7.0\List2.pdb
+C:\Users\Дима\Desktop\Gitdom\List2\obj\Debug\net7.0\List2.genruntimeconfig.cache
+C:\Users\Дима\Desktop\Gitdom\List2\obj\Debug\net7.0\ref\List2.dll
