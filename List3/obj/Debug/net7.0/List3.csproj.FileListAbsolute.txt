@@ -1,0 +1,15 @@
+C:\Users\Дима\Desktop\Gitdom\List3\bin\Debug\net7.0\List3.exe
+C:\Users\Дима\Desktop\Gitdom\List3\bin\Debug\net7.0\List3.deps.json
+C:\Users\Дима\Desktop\Gitdom\List3\bin\Debug\net7.0\List3.runtimeconfig.json
+C:\Users\Дима\Desktop\Gitdom\List3\bin\Debug\net7.0\List3.dll
+C:\Users\Дима\Desktop\Gitdom\List3\bin\Debug\net7.0\List3.pdb
+C:\Users\Дима\Desktop\Gitdom\List3\obj\Debug\net7.0\List3.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\Gitdom\List3\obj\Debug\net7.0\List3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Desktop\Gitdom\List3\obj\Debug\net7.0\List3.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\Gitdom\List3\obj\Debug\net7.0\List3.AssemblyInfo.cs
+C:\Users\Дима\Desktop\Gitdom\List3\obj\Debug\net7.0\List3.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Gitdom\List3\obj\Debug\net7.0\List3.dll
+C:\Users\Дима\Desktop\Gitdom\List3\obj\Debug\net7.0\refint\List3.dll
+C:\Users\Дима\Desktop\Gitdom\List3\obj\Debug\net7.0\List3.pdb
+C:\Users\Дима\Desktop\Gitdom\List3\obj\Debug\net7.0\List3.genruntimeconfig.cache
+C:\Users\Дима\Desktop\Gitdom\List3\obj\Debug\net7.0\ref\List3.dll
